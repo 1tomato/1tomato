@@ -1,5 +1,5 @@
 # Hi 👋, I'm Claudia
-## In case you're wondering, yes, I accept all cookies! 🍪
+## And yes, I accept all cookies! 🍪
 
 
 - I'm a current computer science student at Algoma University. 🇨🇦🌏
