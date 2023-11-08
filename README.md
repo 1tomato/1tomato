@@ -13,16 +13,16 @@
  - [x] CSS
  - [x] HTML
 
-## Courses completed so far:
+## Courses I've completed so far:
  - [x] COSC 1046/7: Introduction to Computer Science I & II
  - [x] COSC 2006/7: Data Structures I & II
  - [x] MATH 1/2056: Discrete Mathematics I & II
  - [x] COSC 2406: Assembly Language Programming
  - [x] COSC 2036: Computer Game Design I
 
-Courses I'll be taking next semester:
+## *Courses I'll be taking next semester:*
  - [ ] COSC 3506: Software Engineering
  - [ ] COSC 2307: Database Programming
  - [ ] MATH 1057: Linear Algebra I
  - [ ] COSC 3407: Operating Systems
- - [ ] COSC 3406: Computer Organization
+ - [ ] COSC 4436: Computer Networks
