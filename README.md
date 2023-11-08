@@ -1,5 +1,5 @@
 # Hi 👋, I'm Claudia
-## (Don't worry, I'm the one on the right!) 😸
+## (Don't worry—I'm the one on the right!) 😸
 
 
 - I'm a current computer science student at Algoma University. 🇨🇦🌏
