@@ -19,11 +19,17 @@
  - [x] MATH1/2056: Discrete Mathematics I & II
  - [x] COSC2406: Assembly Language Programming
  - [x] COSC2036: Computer Game Design I
+ - [x] COSC2996: Project Management
+ - [x] COSC2956: Internet Tools
+ - [x] MATH1057: Linear Algebra I
+ - [x] COSC4106: Analysis of Algorithms
+ - [x] COSC3406: Computer Organization
+ - [x] COSC4596: Mobile App Development II
 
 ## *Courses I'm taking this semester:*
- - [ ] COSC2996: Project Management
- - [ ] COSC2956: Internet Tools
- - [ ] MATH1057: Linear Algebra I
- - [ ] COSC4106: Analysis of Algorithms
- - [ ] COSC3406: Computer Organization
- - [ ] COSC4596: Mobile App Development II
+ - [ ] COSC3506: Software Engineering
+ - [ ] COSC4436: Computer Networks
+ - [ ] MATH1036: Calculus I
+ - [ ] STAT2126: Introduction to Statistics
+ - [ ] COSC4426: Special Topics: Microcontrollers
+ - [ ] COSC4427: Special Topics: Internet of Things
