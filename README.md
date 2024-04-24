@@ -3,7 +3,7 @@
 
 
 - I'm a current computer science student at Algoma University. 🇨🇦🌏
-- This is a compilation of all the coursework I've completed so far in my Honours Bachelor of Science in CS program. 📚
+- A compilation of coursework I've completed so far in my Honours Bachelor of Science in CS program. 📚
 
 ## I'm relatively fluent in:
  - [x] Java
