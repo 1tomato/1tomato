@@ -14,9 +14,9 @@
  - [x] HTML
 
 ## Courses I've completed so far:
- - [x] COSC1046/7: Introduction to Computer Science I & II
- - [x] COSC2006/7: Data Structures I & II
- - [x] MATH1/2056: Discrete Mathematics I & II
+ - [x] COSC1046 & 1047: Introduction to Computer Science I & II
+ - [x] COSC2006 & 2007: Data Structures I & II
+ - [x] MATH1056 & 2056: Discrete Mathematics I & II
  - [x] COSC2406: Assembly Language Programming
  - [x] COSC2036: Computer Game Design I
  - [x] COSC2996: Project Management
