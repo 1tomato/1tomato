@@ -31,5 +31,5 @@
  - [ ] COSC4436: Computer Networks
  - [ ] MATH1036: Calculus I
  - [ ] STAT2126: Introduction to Statistics
- - [ ] COSC4426: Special Topics: Microcontrollers
+ - [ ] COSC4426: Special Topics: Microcontroller Programming & Interfacing
  - [ ] COSC4427: Special Topics: Internet of Things
